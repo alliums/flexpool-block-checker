@@ -2,7 +2,6 @@ const https = require("https");
 const nodifier = require("node-notifier");
 const path = require('path');
 process.title = "block checker uwu"
-var latest_date = new Date();
 
 var gBlocks;
 var lastBlock;
@@ -48,7 +47,6 @@ function UnixToUTC(unix) {
 
 }
 
-var latest_date = new Date();
 var count=0;
 
 function notify() {
