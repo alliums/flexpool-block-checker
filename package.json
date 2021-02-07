@@ -1,0 +1,23 @@
+{
+  "name": "block-checker",
+  "version": "1.0.0",
+  "main": "app.js",
+  "bin": {
+    "block-checker": "app.js"
+  },
+  "dependencies": {
+    "https": "^1.0.0",
+    "jquery": "^3.5.1"
+  },
+  "scripts": {
+    "start": "npm install & node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "node-notifier": "^9.0.0"
+  }
+}
