@@ -1,7 +1,7 @@
 const https = require("https");
 const nodifier = require("node-notifier");
 const path = require('path');
-process.title = "block checker uwu"
+process.title = "flexpool US block checker"
 
 var gBlocks;
 var lastBlock;
