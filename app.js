@@ -61,6 +61,39 @@ function notify() {
   return 0;
 }
 
+
+function throwup() {
+
+console.log("         ▄▄▄▄▄▄")
+console.log("       ▄▀█▀█▄██████████▄▄")
+console.log("      ▐██████████████████▌")
+console.log("      ███████████████████▌");
+console.log("     ▐███████████████████▌");
+console.log("   ▄█▐█▄█▀█████████████▀█▄█▐█▄");
+console.log(" ▄██▌██████▄█▄█▄█▄█▄█▄█████▌██▌");
+console.log("▐████▄▀▀▀▀████████████▀▀▀▀▄███");
+console.log("▐█████████▄▄▄▄▄▄▄▄▄▄▄▄██████▀");
+console.log("  ░▀▀████████████████████▀");
+console.log("  ▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐  ");
+console.log(" ▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌ ");
+console.log(" ▌░▒▒▒▒▒▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌ ");
+console.log("▌▒▒▒▄██▄▒▒▒▒▒▒▒▒░░░░░░░░▒▒▒▐ ");
+console.log("▐▒▒▐▄█▄█▌▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▒▒▌");
+console.log("▐▒▒▐▀▐▀▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▐ ");
+console.log(" ▌▒▒▀▄▄▄▄▄▄▒▒▒▒▒▒▒▒░▒░▒░▒▒▒▌ ");
+console.log(" ▐▒▒▒▒▒▒▒▒▒▀▒▒▒▒▒▒░▒░▒▒▄▒▒▐  ");
+console.log("  ▀▄▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒▄▒▒▒▒▌  ");
+console.log("    ▀▄▒▒▒▒▒▒▒▒▒▒▄▄▄▀▒▒▒▒▄▀   ");
+console.log("      ▀▄▄▄▄▄▄▀▀▀▒▒▒▒▒▄▄▀     ");
+console.log("         ▀▀▀▀▀▀▀▀▀▀▀▀        ");
+
+console.log("OI MATE, 'AVE YEW GOT YER MININ' LICENSE?");
+console.log("YOU TAKIN' THE PISS CHAP?");
+
+  return 0;
+}
+throwup();
+
 var seconds = 5, interval = seconds * 1000;
 setInterval(function() {
     let blockList= getBlocks();
